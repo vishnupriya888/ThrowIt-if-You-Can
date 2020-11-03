@@ -4,4 +4,4 @@ Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFil
 
 ## Please refer to code notes for explanation.
 
-### Output Link : https://vishnupriya-whitehatjr.github.io/ThrowIt/
+### Output Link : https://vishnupriya-whitehatjr.github.io/ThrowIt-if-You-Can/
